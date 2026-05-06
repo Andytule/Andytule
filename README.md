@@ -5,7 +5,7 @@
 <br/>
 
 [![Portfolio](https://img.shields.io/badge/-andytule.github.io-4da6ff?style=for-the-badge&logo=github&logoColor=white)](https://andytule.github.io)&nbsp;
-[![LinkedIn](https://img.shields.io/badge/-andy--tu--le-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/andy-tu-le)&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/andy-tu-le)&nbsp;
 [![Email](https://img.shields.io/badge/-Andytule321%40gmail.com-30d158?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Andytule321@gmail.com)
 
 <br/>
