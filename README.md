@@ -259,7 +259,7 @@ Autonomous metal-collecting robot — Python/Flask server on a Raspberry Pi send
 
 <br/>
 
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=Andytule&show_icons=true&bg_color=16161b&title_color=4da6ff&text_color=ebebf5&icon_color=30d158&border_color=2a2a34&border_radius=10&include_all_commits=true&count_private=true&hide_border=false" />&nbsp;<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andytule&layout=compact&bg_color=16161b&title_color=4da6ff&text_color=ebebf5&border_color=2a2a34&border_radius=10&langs_count=8&hide_border=false" />
+<!-- <img height="175" src="https://github-readme-stats.vercel.app/api?username=Andytule&show_icons=true&bg_color=16161b&title_color=4da6ff&text_color=ebebf5&icon_color=30d158&border_color=2a2a34&border_radius=10&include_all_commits=true&count_private=true&hide_border=false" />&nbsp;<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andytule&layout=compact&bg_color=16161b&title_color=4da6ff&text_color=ebebf5&border_color=2a2a34&border_radius=10&langs_count=8&hide_border=false" /> -->
 
 <br/><br/>
 
